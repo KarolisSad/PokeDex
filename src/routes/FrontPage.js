@@ -8,7 +8,7 @@ export default function FrontPage() {
         <h1>
             Find your favorite pokemon!
         </h1>
-        <h3><Link to="/pokemons">Check Pokemons!</Link></h3>
+        <h3><Link to="/pokemons">Check Pokemons !</Link></h3>
     </>
     )
 }

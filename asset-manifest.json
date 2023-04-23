@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokeDex/static/css/main.073c9b0a.css",
+    "main.js": "/PokeDex/static/js/main.8ad19023.js",
+    "static/js/787.443e860f.chunk.js": "/PokeDex/static/js/787.443e860f.chunk.js",
+    "index.html": "/PokeDex/index.html",
+    "main.073c9b0a.css.map": "/PokeDex/static/css/main.073c9b0a.css.map",
+    "main.8ad19023.js.map": "/PokeDex/static/js/main.8ad19023.js.map",
+    "787.443e860f.chunk.js.map": "/PokeDex/static/js/787.443e860f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ad19023.js"
+  ]
+}
